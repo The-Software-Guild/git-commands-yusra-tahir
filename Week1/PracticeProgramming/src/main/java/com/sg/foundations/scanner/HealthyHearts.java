@@ -4,7 +4,7 @@
  * email: yusra-tahir@hotmail.co.uk
  * date: 12-10-2022
  */
-package com.sg.foundations.scanner;
+package BasicProgrammingAssessment;
 
 import java.util.Scanner;
 

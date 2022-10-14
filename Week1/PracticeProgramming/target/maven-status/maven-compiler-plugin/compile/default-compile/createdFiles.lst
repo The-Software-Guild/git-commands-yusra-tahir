@@ -1,12 +1,16 @@
+com/sg/foundations/flowcontrol/methods/FruitsBasket.class
 com/sg/foundations/scanner/AllTheTrivia.class
 com/sg/foundations/flowcontrol/ifs/LlamasWhalesAndDodosOhMy.class
 com/sg/foundations/flowcontrol/ifs/YourLifeInMovies.class
+com/sg/foundations/flowcontrol/arrays/ARainbow.class
 com/sg/foundations/variables/AllAboutMe.class
-BarelyControlledChaos.class
 com/sg/foundations/flowcontrol/ifs/KnockKnock.class
 com/sg/foundations/scanner/yourName.class
+com/sg/foundations/flowcontrol/arrays/SimpleCombination.class
 com/sg/foundations/variables/InABucket.class
+com/sg/foundations/flowcontrol/arrays/StillPositive.class
 com/sg/foundations/scanner/DoItBetter.class
+com/sg/foundations/flowcontrol/arrays/result.class
 com/sg/foundations/scanner/HealthyHearts.class
 com/sg/foundations/flowcontrol/methods/ReturnToSender.class
 com/sg/foundations/flowcontrol/methods/MethodToTheMadness.class
@@ -19,6 +23,8 @@ com/sg/foundations/flowcontrol/ifs/GuessMe.class
 com/sg/foundations/variables/TheOrderOfThings.class
 com/sg/foundations/scanner/QuestForTheUserInput.class
 com/sg/foundations/basics/ProjectGutenberg.class
+com/sg/foundations/basics/arrays/FruitSalad.class
+com/sg/foundations/flowcontrol/arrays/HiddenNuts.class
 com/sg/foundations/variables/MoreBucketsMoreFun.class
 com/sg/foundations/basics/PracticeProgramming.class
 com/sg/foundations/variables/MenuOfChampions.class
@@ -32,3 +38,4 @@ com/sg/foundations/flowcontrol/ifs/PickyEater.class
 com/sg/foundations/flowcontrol/ifs/MiniZork.class
 com/sg/foundations/flowcontrol/ifs/SpaceRustlers.class
 com/sg/foundations/scanner/DontForgetToStoreIt.class
+com/sg/foundations/flowcontrol/methods/BarelyControlledChaos.class
